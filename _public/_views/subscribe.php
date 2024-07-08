@@ -14,9 +14,9 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
             $mail->isSMTP();
             $mail->Host = 'mail.codeaxe.co.in'; // Set the SMTP server to send through
             $mail->SMTPAuth = true;
-            $mail->Username = 'contact@codeaxe.co.in'; // SMTP username
-            $mail->Password = 'Q$OLf-xZXPd*'; // SMTP password
-            $mail->SMTPSecure = 'tls'; // Enable TLS encryption, `ssl` also accepted
+            $mail->Username = 'asadullahnadeem78@gmail.com'; // SMTP username
+            $mail->Password = 'Q$OLf-xZkndcknkcnbxkvcb,ce4354e5dXPd*'; // SMTP password
+            $mail->SMTPSecure = 'tls'; // Enable TLS encryption, `ssl` also accepted    
             $mail->Port = 587; // TCP port to connect to
 
             // Recipients
